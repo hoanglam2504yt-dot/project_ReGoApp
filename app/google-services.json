@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707194845089",
+    "project_id": "rego-fda80",
+    "storage_bucket": "rego-fda80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707194845089:android:51f50d60efb69493ab7de0",
+        "android_client_info": {
+          "package_name": "com.example.rego"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0TGI6xHYmZqGzUzdXDD6HnYSn_DYkuCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
